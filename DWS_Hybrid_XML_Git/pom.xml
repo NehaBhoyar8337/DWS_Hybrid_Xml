@@ -78,7 +78,7 @@
   <configuration>
   
   <suiteXmlFiles>
-  <suiteXmlFile>DWS_Hybrid_XML_Git/testng.xml</suiteXmlFile>
+  <suiteXmlFile>${suiteXmlFile}</suiteXmlFile>
   </suiteXmlFiles>
   
   </configuration>
