@@ -1,0 +1,7 @@
+com\cjc\DWS\Pages\FW_AddToCart_page.class
+com\cjc\DWS\Commons\Browser_Url.class
+com\cjc\DWS\Tests\MainTest.class
+com\cjc\DWS\Pages\FW_PaymentGateWay_page.class
+com\cjc\DWS\Pages\FW_ShoppingCart_page.class
+com\cjc\DWS\Pages\FW_Registration_page.class
+com\cjc\DWS\Commons\DWS_Listener.class
