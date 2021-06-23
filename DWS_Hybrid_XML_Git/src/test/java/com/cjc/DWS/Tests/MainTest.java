@@ -39,7 +39,7 @@ public class MainTest extends Browser_Url {
 		FW_Registration_page fwrp=PageFactory.initElements(driver, FW_Registration_page.class);
 		 
 			//driver.manage().timeouts().implicitlyWait(15,TimeUnit.SECONDS);
-            fwrp.gender(); //kjsefhuibfjkb
+            fwrp.gender(); //kjsefhuibfjkb //fhgefyugLUILGF
 			fwrp.details(fname,lname,emailid,password,Cpassword);
 			File src=((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
 	    	FileUtils.copyFileToDirectory(src,new File("D:\\selenium\\DWSframework_Single_Test_XML\\ScreenShot.jpeg"));

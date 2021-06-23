@@ -59,9 +59,7 @@ public class FW_Registration_page  extends Browser_Url {
 			email.sendKeys(mail);
 			password.sendKeys(ps);
 			confirmPassword.sendKeys(cps);
-			log.warn("Users Registration Data Enterd Successfully!");
-		
-			
+			log.warn("Users Registration Data Enterd Successfully!");	
 		}
 		
 		
